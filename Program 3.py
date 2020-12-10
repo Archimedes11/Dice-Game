@@ -42,7 +42,7 @@ def display_die (roll):
                         return "four.gif"#return "four.gif"
             if roll == 5:#If roll variable is equal to 5:
                         return "five.gif"#return "five.gif"
-            if roll ==6:#If roll variable is equal to 6:
+            if roll == 6:#If roll variable is equal to 6:
                         return "six.gif"#return "six.gif"            
                         
 def main():
